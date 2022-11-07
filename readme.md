@@ -1,4 +1,4 @@
-# PSATIR
+
 
 # Installation
 
@@ -46,9 +46,9 @@
 
 ```js
 {
-    "botName": "PSATIR Bot", // name of bot
-    "ownerName": "LOLI", // owner name, you should add your name
-    "ownerNumber": ["628815887040@s.whatsapp.net"], // owner number, you should add your number
+    "botName": "[MALIK] Bot", // name of bot
+    "ownerName": "LMALIK", // owner name, you should add your name
+    "ownerNumber": ["254711107992@s.whatsapp.net"], // owner number, you should add your number
     "sessionName": "pedofil", // will be pedofil-session.json
     "apikey": "" // get apikey on  website https://api.lolhuman.xyz/
     "vhtearkey": "" //  get apikey on website https://vhtear.com/index?#api-documentation
